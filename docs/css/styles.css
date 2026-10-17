@@ -1,0 +1,48 @@
+@font-face {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/arial.ttf");
+}
+@font-face {
+	font-family: "Goudy Old Style";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/GOUDOS.TTF");
+}
+.Base {
+font-family:Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+font-size:1.0em;
+hyphens:none;
+}
+
+.Body {
+font-family:"Goudy Old Style", serif;
+font-size:1.5em;
+line-height:1em;
+margin-left:0;
+text-indent:0;
+}
+
+.stanza {
+font-family:"Goudy Old Style", serif;
+font-size:1.5em;
+line-height:1em;
+margin-left:0;
+text-indent:0;
+}
+
+.p2 {
+margin-top:2em;
+}
+
+.p3 {
+margin-top:1em;
+}
+
+.p1 {
+text-align:center;
+}
+
